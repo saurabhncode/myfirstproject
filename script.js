@@ -1,5 +1,7 @@
 function startExam() {
-  // Redirect to the exam page
-  window.location.href = "questions.html"; // You can change this later
+  window.location.href = "questions.html";
 }
-
+function selectSubject(subject) {
+  alert("You selected: " + subject);
+   localStorage.setItem("selectedSubject", subject);
+}
