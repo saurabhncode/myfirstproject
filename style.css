@@ -5,11 +5,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: https://github.com/saurabhncode/myfirstproject/blob/caaaa244e2fea8b1efe0f592f70518f3877d5984/background.png.jpg("background.png.jpg");
+  background-image: url("https://raw.githubusercontent.com/saurabhncode/myfirstproject/main/background.png.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
+
 
 
 .container {
