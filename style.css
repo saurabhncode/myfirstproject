@@ -6,4 +6,6 @@
 .box{
     border:1px solid green;
     background-color: skyblue;
+    height:100px;
+    width:100px;
 }
