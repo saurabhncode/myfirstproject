@@ -2,6 +2,7 @@
     height: 700px;
     border: 1px solid red;
     background-color: yellow;
+    display:grid;
 }
 .box{
     border:1px solid green;
